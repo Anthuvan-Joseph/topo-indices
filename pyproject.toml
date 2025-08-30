@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "topo-indices"                 # package name for pip install
+version = "0.1.0"
+description = "Python library for calculating Topological Indices"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name="Anthuvan Joseph Benjamin", email="anthuvanjoseph21@gmail.com"}]
+dependencies = ["networkx>=3.0"]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/topo-indices"
+Documentation = "https://topo-indices.readthedocs.io"
