@@ -1,0 +1,17 @@
+
+---
+
+# **5️⃣ `CITATION.cff`**
+
+```yaml
+cff-version: 1.2.0
+message: "If you use topo-indices in research, cite:"
+title: "topo-indices: A Python library for topological indices of chemical graphs"
+version: "0.1.2"
+doi: "10.5281/zenodo.17009941"
+date-released: 2025-08-31
+authors:
+  - family-names: "Benjamin"
+    given-names: "Anthuvan Joseph"
+    email: "anthuvanjoseph21@gmail.com"
+url: "https://github.com/Anthuvan-Joseph/topo-indices"
