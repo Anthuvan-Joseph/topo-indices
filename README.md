@@ -1,12 +1,7 @@
-\# topo-indices
-
-
 
 Python library to calculate Topological Indices.
 
-
-
-\## Installation
+Installation
 
 ```bash
 
